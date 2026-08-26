@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 输出csv结果文件
+*.csv
+
+# 密钥配置，防止泄露ble‑key、mac
+米家设备信息.md
+
+# VSCode本地配置
+.vscode/
+*.code‑workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略整个文件夹，末尾加斜杠 /
+数据分析/
+Xiaomi-cloud-tokens-extractor/git checkout --orphan temp_clean

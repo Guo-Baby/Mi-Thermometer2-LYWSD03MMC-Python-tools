@@ -1,0 +1,5 @@
+winrt-runtime
+winrt-Windows.Devices.Bluetooth
+winrt-Windows.Devices.Bluetooth.Advertisement
+cryptography
+pandas
